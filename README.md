@@ -39,6 +39,10 @@ Este é um aplicativo de tradução de idiomas que permite traduzir texto de um 
   streamlit run translator_app.py
 ```
 
+## 🌐 Link para o Aplicativo Online
+
+Acesse o aplicativo diretamente no seu navegador, seguindo este link: https://translationappwithaudio-matheusfreire7.streamlit.app/
+
 ## Licença 📜
 
 Este projeto está sob a licença [Licença MIT](LICENSE).
